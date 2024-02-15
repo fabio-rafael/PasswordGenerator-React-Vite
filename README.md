@@ -1,21 +1,27 @@
-Password Generator
+# Password Generator
 
 Este é um gerador de senhas simples desenvolvido em React utilizando o Vite como ferramenta de inicialização rápida. O projeto tem como objetivo fornecer uma ferramenta prática para criar senhas seguras e personalizáveis, promovendo a segurança.
 
-Funcionalidades Implementadas:
-Geração Personalizada de Senhas: Personalize sua senha escolhendo comprimento e inclusão de diferentes tipos de caracteres (minúsculas, maiúsculas, números e símbolos).
+## Funcionalidades Implementadas:
 
-Visualização Instantânea: A senha gerada é exibida instantaneamente na interface do usuário, permitindo uma rápida verificação.
+- **Geração Personalizada de Senhas:** Personalize sua senha escolhendo comprimento e inclusão de diferentes tipos de caracteres (minúsculas, maiúsculas, números e símbolos).
 
-Cópia para Área de Transferência: Facilmente copie a senha gerada para a área de transferência com um único clique, tornando o processo de uso ainda mais conveniente.
+- **Visualização Instantânea:** A senha gerada é exibida instantaneamente na interface do usuário, permitindo uma rápida verificação.
 
-Aprendizados Adquiridos:
-React Hooks: Utilização intensiva de React Hooks para gerenciar o estado do componente de forma eficiente.
+- **Cópia para Área de Transferência:** Facilmente copie a senha gerada para a área de transferência com um único clique, tornando o processo de uso ainda mais conveniente.
 
-Controle de Estado com React: Manipulação de diferentes estados para controlar o comprimento da senha, tipos de caracteres e a própria senha gerada.
+## Aprendizados Adquiridos:
 
-Integração com React-Copy-To-Clipboard: Implementação da funcionalidade de copiar para área de transferência utilizando a biblioteca react-copy-to-clipboard.
+- **React Hooks:** Utilização intensiva de React Hooks para gerenciar o estado do componente de forma eficiente.
 
-Responsividade com CSS: Design responsivo para garantir uma experiência de usuário consistente em diferentes dispositivos.
+- **Controle de Estado com React:** Manipulação de diferentes estados para controlar o comprimento da senha, tipos de caracteres e a própria senha gerada.
 
-Uso do Vite para Desenvolvimento Rápido: Inicialização do projeto utilizando o Vite para um desenvolvimento rápido e eficiente.
+- **Integração com React-Copy-To-Clipboard:** Implementação da funcionalidade de copiar para área de transferência utilizando a biblioteca react-copy-to-clipboard.
+
+- **Responsividade com CSS:** Design responsivo para garantir uma experiência de usuário consistente em diferentes dispositivos.
+
+- **Uso do Vite para Desenvolvimento Rápido:** Inicialização do projeto utilizando o Vite para um desenvolvimento rápido e eficiente.
+
+## Demonstração:
+
+[![Demo](https://img.shields.io/badge/Demo-Link-blue.svg)](https://passwordgenerator-fabiorafael.netlify.app/)
